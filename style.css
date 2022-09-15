@@ -1,0 +1,47 @@
+body {
+  height: 150vh;
+  width: 100vw;
+  /* background-color: #f0f2f5; */
+}
+
+.ForPadding {
+  padding-top: 284px;
+}
+.forPaddingTwo {
+  margin-top: 100px;
+  padding-top: 70px !important;
+}
+
+.btnclr {
+  background-color: #42b72a !important;
+  color: white;
+}
+
+.forline {
+  display: block;
+  margin-top: 50px;
+}
+
+.forRounded {
+  border-radius: 15px !important ;
+}
+
+/* @media screen and (max-width: 560px) {
+  .forPaddingTwo {
+    margin-top: 0px;
+    padding-top: 15px !important;
+  }
+  .ForPadding {
+    padding-top: 0px;
+  }
+  .btnclr {
+    font-size: 15px;
+    padding: 10px !important;
+  }
+  .forMedia {
+    width: 70% !important;
+  }
+  .forWidth {
+    max-width: max-content;
+  }
+} */

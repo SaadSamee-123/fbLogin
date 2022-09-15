@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+  </head>
+    <title>Day 1 html and css</title>
+</head>
+<body>
+    <div class="container">
+        <div>
+            <img src="./facebook.png" alt="FACEBOOK">
+            <h2>Facebook helps you connect and share with the people in your life.
+            </h2>
+        </div>
+            <form class="card">
+                <input class="inputs" type="text" placeholder="User Name">
+                <input class="inputs" type="email" placeholder="Email">
+                <button class="login-button"> log in</button>
+                <a href="/forgotpasssword">Forgotten Password?</a>
+                <hr>
+                <button class="create-button">Create New account</button>
+
+            </form>
+    </div>
+</body>
+</html>
